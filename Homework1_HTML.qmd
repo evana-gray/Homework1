@@ -4,6 +4,12 @@ format: html
 editor: visual
 ---
 
+# Evan Gray
+
+# ST558
+
+# Homework1
+
 ## Data Science Questions
 
 **What do you think being a data scientist is about?**
