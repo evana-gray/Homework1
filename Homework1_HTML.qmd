@@ -1,0 +1,56 @@
+---
+title: "Homework1"
+format: html
+editor: visual
+---
+
+## Data Science Questions
+
+**What do you think being a data scientist is about?**
+
+-   Data scientists will use computer programming/software and basic to advanced statistical methods to gather, import, interpret, and visualize data. Data scientists often will create statistical models to make predictions.
+
+**What differences/similarities do you see between data scientists and statisticians?**
+
+-   Statisticians are more likely to approach questions with respect to testing specific hypotheses, research methodology, and tightly controlled study designs. Most statisticians work in academic or research settings.
+
+-   Data Scientists are more likely to use exploratory analysis and data mining techniques on larger and messier sets of data. There is less of a focus on methodological rigor in their analyses. Data scientists often focus on prediction and classification. Most data scientists work in industry settings.
+
+-   Both roles rely on the same math and statistical foundations and are concerned with the accuracy and validity of their analyses.
+
+**How do you view yourself in relation to these two areas?**
+
+-   I am a professional focusing on business intelligence and am interested in a more rigorous study of statistical theory and methods while learning technical skills necessary to effectively transition to data science work.
+
+## Iris Dataset
+
+Storing density() function results in object y.
+
+```{r}
+y <- density(iris$Petal.Width)
+```
+
+Finding the class of object y.
+
+```{r}
+class(y)
+```
+
+Finding the type of object y.
+
+```{r}
+typeof(y)
+```
+
+Finding the structure of object y.
+
+```{r}
+str(y)
+```
+
+Here is a plot of the object y (with the code hidden)!
+
+```{r}
+#| echo: false
+plot(y)
+```

@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "Homework1_HTML.html",
+    "href": "Homework1_HTML.html",
+    "title": "Homework1",
+    "section": "",
+    "text": "What do you think being a data scientist is about?\n\nData scientists will use computer programming/software and basic to advanced statistical methods to gather, import, interpret, and visualize data. Data scientists often will create statistical models to make predictions.\n\nWhat differences/similarities do you see between data scientists and statisticians?\n\nStatisticians are more likely to approach questions with respect to testing specific hypotheses, research methodology, and tightly controlled study designs. Most statisticians work in academic or research settings.\nData Scientists are more likely to use exploratory analysis and data mining techniques on larger and messier sets of data. There is less of a focus on methodological rigor in their analyses. Data scientists often focus on prediction and classification. Most data scientists work in industry settings.\nBoth roles rely on the same math and statistical foundations and are concerned with the accuracy and validity of their analyses.\n\nHow do you view yourself in relation to these two areas?\n\nI am a professional focusing on business intelligence and am interested in a more rigorous study of statistical theory and methods while learning technical skills necessary to effectively transition to data science work."
+  },
+  {
+    "objectID": "Homework1_HTML.html#data-science-questions",
+    "href": "Homework1_HTML.html#data-science-questions",
+    "title": "Homework1",
+    "section": "",
+    "text": "What do you think being a data scientist is about?\n\nData scientists will use computer programming/software and basic to advanced statistical methods to gather, import, interpret, and visualize data. Data scientists often will create statistical models to make predictions.\n\nWhat differences/similarities do you see between data scientists and statisticians?\n\nStatisticians are more likely to approach questions with respect to testing specific hypotheses, research methodology, and tightly controlled study designs. Most statisticians work in academic or research settings.\nData Scientists are more likely to use exploratory analysis and data mining techniques on larger and messier sets of data. There is less of a focus on methodological rigor in their analyses. Data scientists often focus on prediction and classification. Most data scientists work in industry settings.\nBoth roles rely on the same math and statistical foundations and are concerned with the accuracy and validity of their analyses.\n\nHow do you view yourself in relation to these two areas?\n\nI am a professional focusing on business intelligence and am interested in a more rigorous study of statistical theory and methods while learning technical skills necessary to effectively transition to data science work."
+  },
+  {
+    "objectID": "Homework1_HTML.html#iris-dataset",
+    "href": "Homework1_HTML.html#iris-dataset",
+    "title": "Homework1",
+    "section": "Iris Dataset",
+    "text": "Iris Dataset\nStoring density() function results in object y.\n\ny &lt;- density(iris$Petal.Width)\n\nFinding the class of object y.\n\nclass(y)\n\n[1] \"density\"\n\n\nFinding the type of object y.\n\ntypeof(y)\n\n[1] \"list\"\n\n\nFinding the structure of object y.\n\nstr(y)\n\nList of 8\n $ x         : num [1:512] -0.656 -0.648 -0.64 -0.633 -0.625 ...\n $ y         : num [1:512] 0.00161 0.00178 0.00197 0.00217 0.00239 ...\n $ bw        : num 0.252\n $ n         : int 150\n $ old.coords: logi FALSE\n $ call      : language density.default(x = iris$Petal.Width)\n $ data.name : chr \"iris$Petal.Width\"\n $ has.na    : logi FALSE\n - attr(*, \"class\")= chr \"density\"\n\n\nHere is a plot of the object y (with the code hidden)!"
+  }
+]
